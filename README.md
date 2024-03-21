@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-2do modulo del curso de Henry
+Este proyecto es una prueba de como crear un repsoitorio
